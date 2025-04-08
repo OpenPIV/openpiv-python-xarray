@@ -4,6 +4,9 @@ We opened this discussion on OpenPIV Python repo: https://github.com/OpenPIV/ope
 
 and quickly realized that changes are more significant than just a single branch. 
 
+## The starting points:
+https://github.com/ErichZimmer/openpiv_prototypes
+
 ## Contributors
 
 1. [Alex Liberzon](http://github.com/alexlib)
